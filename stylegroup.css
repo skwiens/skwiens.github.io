@@ -1,0 +1,46 @@
+* {
+
+  color: pink;
+  background: green;
+}
+
+h1 {
+  text-align: center;
+
+
+}
+
+h3 {
+  color: pink;
+}
+
+p {
+  color: pink;
+}
+
+ul {
+  color: pink;
+}
+
+img {
+  width: 50%;
+  height: auto;
+  position:absolute;
+  left: 25%;
+}
+
+.friendship {
+  width: 30%;
+  height: auto;
+  left: 35%;
+}
+
+
+div {
+  display: inline-block;
+  position: absolute;
+  top: 60%;
+
+}
+body{
+}
